@@ -1,0 +1,22 @@
+{
+  "name": "s.prop",
+  "version": "1.0.0",
+  "description": "S.prop - Properties",
+  "main": "S.prop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.prop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.prop/issues"
+  },
+  "homepage": "https://github.com/macton/S.prop#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
