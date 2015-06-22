@@ -1,4 +1,4 @@
-var S = require('S');
+var S = require('s');
 
 var prop = {
   get  : function( key, obj ) { return obj?obj[key]:null; },
